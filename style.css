@@ -38,11 +38,12 @@ footer{
 :active .btn{
     background-color: #38d7a0;
 }
-@media (max-width: 1080px ) {
+@media (max-width: 880px ) {
   #title{
-    font-size: 7rem;
+    font-size: 9rem;
   }
   .dice{
     display: block;
+   padding:50px 50px;
   }
 }

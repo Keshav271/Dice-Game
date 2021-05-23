@@ -38,9 +38,9 @@ footer{
 :active .btn{
     background-color: #38d7a0;
 }
-@media (max-width: 917px ) {
+@media (max-width: 1080px ) {
   #title{
-    font-size: 5rem;
+    font-size: 7rem;
   }
   .dice{
     display: block;
